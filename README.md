@@ -13,6 +13,6 @@ This repository documents my structured Java practice journey as part of my tran
 
 ## Technologies Used
 - Java
-- VS Code
+- Intellij
 - Git & GitHub
 - Java CLI execution
